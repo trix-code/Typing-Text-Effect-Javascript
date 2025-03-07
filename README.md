@@ -19,9 +19,6 @@ Typing Text Effect is a simple JavaScript application that simulates typing text
 2. Open the `index.html` file in your web browser
 3. The typing text effect will appear on the page
 
-## 📸 App Preview
-(Here you can add screenshots or GIFs showcasing the typing text effect in action)
-
 ## 📬 Contact
 - 📧 **Email:** tomaskotik08@gmail.com
 - 🌐 **GitHub:** [github.com/trix-code](https://github.com/trix-code)
